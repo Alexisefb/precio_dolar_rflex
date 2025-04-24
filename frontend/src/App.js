@@ -15,7 +15,7 @@ const App = () => {
               Fluctuación del dólar
             </Typography>
             <Typography variant="subtitle1" sx={{ mt: 1 }}>
-              Consulta y gestiona los valores del dólar según el rango de fechas
+              Prueba por Alexis Farias Blanco
             </Typography>
           </Box>
 
