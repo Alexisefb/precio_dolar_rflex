@@ -85,6 +85,8 @@
 ## Notas:
 -Adjunto archivo .sql para la creacion de la base.
 
+-Está configurado el schedule en el Kernel para que se ejecute cada hora (hourly).
+
 -Prueba por Alexis Farias Blanco.
 
 ---
