@@ -1,6 +1,6 @@
 ## Tecnologías utilizadas
 
-- **Backend**: Laravel 10
+- **Backend**: Laravel 12.10.0
 - **Frontend**: React 18.2.0 con JavaScript
 - **Estilos**: Material UI
 - **Gráficos**: Recharts
