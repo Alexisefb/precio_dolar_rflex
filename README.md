@@ -12,7 +12,7 @@
 
 - [Laravel](https://laravel.com/) (yo utilizo Laragon)
 - PHP ≥ 8.1
-- MySQL o similar (base de datos)
+- MySQL (base de datos)
 - Node.js y npm
 
 ---
